@@ -1,1 +1,3 @@
 SoftwareGitTraining
+
+Hello, world!
