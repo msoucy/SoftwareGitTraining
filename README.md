@@ -1,3 +1,3 @@
 SoftwareGitTraining
 
-Hello, world!
+Salut, monde!
